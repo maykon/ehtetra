@@ -1,0 +1,31 @@
+{
+  "name": "ehtetra",
+  "version": "1.0.0",
+  "description": "🙌😃 Eh Tetraaaaaaaaaaaaa!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maykon/ehtetra.git"
+  },
+  "keywords": [
+    "ehtetra"
+  ],
+  "author": {
+    "name": "Maykon Luís Capellari",
+    "url": "https://github.com/maykon"
+  },
+  "license": "MIT",
+  "bin": {
+    "ehtetra": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/maykon/ehtetra/issues"
+  },
+  "homepage": "https://github.com/maykon/ehtetra#readme",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
